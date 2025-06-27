@@ -64,5 +64,6 @@ At Dhwani RIS, we believe that **technology should democratize access to solutio
 </p>
 
 ---
+![](https://komarev.com/ghpvc/?username=dhwani-ris&base=2000&abbreviated=true)
 
 *© 2025 Dhwani Rural Information Systems. Building technology for social good since 2014.*
