@@ -34,6 +34,9 @@ Seamless integration for storing Frappe attachments in Amazon S3, providing scal
 #### 🔔 [Frappe FCM Notifications](https://github.com/dhwani-ris/frappe_fcm_notification)
 Firebase Cloud Messaging integration for Frappe, enabling push notifications for mobile and web applications.
 
+#### 🔐 [Frappe Permissions Manager](https://github.com/dhwani-ris/frappe_permission_manager)
+A powerful Frappe app for bulk management of user permissions with advanced control features for data access and security.
+
 ---
 
 ## 💡 Why We Contribute to Open Source
