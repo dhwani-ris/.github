@@ -28,8 +28,8 @@ A comprehensive theming solution for the Frappe desk interface, enabling customi
 ### 📲 [Frappe MSG91 Integration](https://github.com/dhwani-ris/frappe_msg91_integration)  
 Integrates MSG91 SMS gateway with the Frappe framework, providing SMS messaging and OTP verification functionality.
 
-### ☁️ [Frappe Attachments S3](https://github.com/dhwani-ris/frappe-attachments-s3)  
-Seamlessly stores Frappe attachments in Amazon S3, offering scalable and reliable cloud storage integration.
+### ☁️ [Frappe Cloud Storage](https://github.com/dhwani-ris/frappe-cloud-storage)  
+Multi-cloud file storage app for the Frappe framework. Uploads Frappe **File** attachments to **Amazon S3** or **Google Cloud Storage (GCS)** and serves them from the cloud.
 
 ### 🔔 [Frappe FCM Notifications](https://github.com/dhwani-ris/frappe_fcm_notification)  
 Enables Firebase Cloud Messaging (FCM) integration with Frappe, allowing push notifications for both mobile and web platforms.
