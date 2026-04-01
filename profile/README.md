@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 About Us
+## About Us
 
 **Dhwani Rural Information Systems (Dhwani RIS)** is a technology-driven social impact venture that empowers development sector organizations and social enterprises to track, monitor, and scale their projects effectively through innovative ICT solutions.
 
@@ -18,7 +18,7 @@ With **150+ ICT4D professionals** and nearly a decade of experience, we've succe
 
 ---
 
-## 🤝 Our Frappe Ecosystem Contributions
+## Our Frappe Ecosystem Contributions
 
 We believe in contributing back to the open-source community that enables our work. Here are some of our key contributions to the Frappe ecosystem:
 
@@ -28,33 +28,33 @@ A Flutter-based SDK for building mobile applications integrated with the Frappe 
 ### [Frappe Mobile Control](https://github.com/dhwani-ris/frappe-mobile-control)  
 Provides UI control components and utilities for building customizable mobile applications on top of the Frappe ecosystem.
 
-### 🎨 [Frappe Desk Theme](https://github.com/dhwani-ris/frappe_desk_theme)  
+### [Frappe Desk Theme](https://github.com/dhwani-ris/frappe_desk_theme)  
 A comprehensive theming solution for the Frappe desk interface, enabling customization of the user interface appearance.
 
-### 📲 [Frappe MSG91 Integration](https://github.com/dhwani-ris/frappe_msg91_integration)  
+### [Frappe MSG91 Integration](https://github.com/dhwani-ris/frappe_msg91_integration)  
 Integrates MSG91 SMS gateway with the Frappe framework, providing SMS messaging and OTP verification functionality.
 
-### ☁️ [Frappe Cloud Storage](https://github.com/dhwani-ris/frappe-cloud-storage)  
+### [Frappe Cloud Storage](https://github.com/dhwani-ris/frappe-cloud-storage)  
 Multi-cloud file storage app for the Frappe framework. Uploads Frappe **File** attachments to **Amazon S3** or **Google Cloud Storage (GCS)** and serves them from the cloud.
 
-### 🔔 [Frappe FCM Notifications](https://github.com/dhwani-ris/frappe_fcm_notification)  
+### [Frappe FCM Notifications](https://github.com/dhwani-ris/frappe_fcm_notification)  
 Enables Firebase Cloud Messaging (FCM) integration with Frappe, allowing push notifications for both mobile and web platforms.
 
-### 📘 [Frappe PCAT Assessment](https://github.com/dhwani-ris/frappe_pcat_assessment)  
+### [Frappe PCAT Assessment](https://github.com/dhwani-ris/frappe_pcat_assessment)  
 A reusable and modular assessment app built on Frappe, designed for performance and customization.
 
-### 🔐 [Frappe Permission Manager](https://github.com/dhwani-ris/frappe_permission_manager)  
+### [Frappe Permission Manager](https://github.com/dhwani-ris/frappe_permission_manager)  
 A powerful app for bulk managing user permissions in Frappe, providing advanced control over data access and security.
 
-### ✅ [Frappe Pre-Commit](https://github.com/dhwani-ris/frappe-pre-commit)  
+### [Frappe Pre-Commit](https://github.com/dhwani-ris/frappe-pre-commit)  
 Frappe pre-commit hooks enforce coding standards and quality checks before code submission.
 
-### 🧱 [Frappe Base Dhwani](https://github.com/dhwani-ris/dhwani_frappe_base)  
+### [Frappe Base Dhwani](https://github.com/dhwani-ris/dhwani_frappe_base)  
 A foundational Frappe app containing reusable components and utilities for rapid development across multiple projects.
 
 ---
 
-## 💡 Why We Contribute to Open Source
+## Why We Contribute to Open Source
 
 At Dhwani RIS, we believe that **technology should democratize access to solutions**, especially in the social sector. Our contributions to the Frappe ecosystem stem from our core philosophy:
 
@@ -67,18 +67,18 @@ At Dhwani RIS, we believe that **technology should democratize access to solutio
 
 ---
 
-## 📧 Get In Touch
+## Get In Touch
 
 **Ready to amplify your social impact through technology?**
 
-- 🌐 **Website**: [dhwaniris.com](https://dhwaniris.com)
-- 📧 **Partnerships**: partnerships@dhwaniris.com
-- 💼 **LinkedIn**: [Dhwani Rural Information Systems](https://in.linkedin.com/company/dhwaniris)
+- **Website**: [dhwaniris.com](https://dhwaniris.com)
+- **Partnerships**: partnerships@dhwaniris.com
+- **LinkedIn**: [Dhwani Rural Information Systems](https://in.linkedin.com/company/dhwaniris)
 
 ---
 
 <p align="center">
-  <em>🌱 Growing social impact, one line of code at a time 🌱</em>
+  <em>Growing social impact, one line of code at a time 🌱</em>
 </p>
 
 ---
