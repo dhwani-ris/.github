@@ -83,4 +83,4 @@ At Dhwani RIS, we believe that **technology should democratize access to solutio
 
 ---
 
-*© 2025 Dhwani Rural Information Systems. Building technology for social good since 2014.*
+*© 2026 Dhwani Rural Information Systems. Building technology for social good since 2014.*
