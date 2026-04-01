@@ -22,6 +22,12 @@ With **150+ ICT4D professionals** and nearly a decade of experience, we've succe
 
 We believe in contributing back to the open-source community that enables our work. Here are some of our key contributions to the Frappe ecosystem:
 
+###  [Frappe Mobile SDK](https://github.com/dhwani-ris/frappe-mobile-sdk)  
+A Flutter-based SDK for building mobile applications integrated with the Frappe framework, enabling rapid development and seamless backend connectivity.
+ 
+### [Frappe Mobile Control](https://github.com/dhwani-ris/frappe-mobile-control)  
+Provides UI control components and utilities for building customizable mobile applications on top of the Frappe ecosystem.
+
 ### 🎨 [Frappe Desk Theme](https://github.com/dhwani-ris/frappe_desk_theme)  
 A comprehensive theming solution for the Frappe desk interface, enabling customization of the user interface appearance.
 
